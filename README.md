@@ -29,7 +29,7 @@ while True:
 
 **Stack:** Python · PyTorch · LangGraph · OpenAI · Hugging Face · AWS · FastAPI · Docker · Neo4J
 
-**Writing:** I wrote a [deep dive on LLM internals](https://anuragvishwakarma9.substack.com/p/llms-understanding-layers-and-weights) — tokenization to next-token sampling, with the actual math. Because someone has to.
+**Writing:** I write tech articles. This is one of them, [deep dive on LLM internals](https://anuragvishwakarma9.substack.com/p/llms-understanding-layers-and-weights) — tokenization to next-token sampling, with the actual math. Because someone has to.
 
 **Research:** Two published papers on computer vision and network security. Peer review was humbling.
 
